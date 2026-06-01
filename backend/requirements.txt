@@ -4,3 +4,5 @@ sqlalchemy
 scikit-learn
 joblib
 pydantic
+email-validator
+python-multipart
