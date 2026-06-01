@@ -1,4 +1,4 @@
-const API = "https://ai-customer-support-crm.onrender.com/";
+const API = "https://ai-customer-support-crm.onrender.com";
  
 /* ── Badge helpers ── */
  
