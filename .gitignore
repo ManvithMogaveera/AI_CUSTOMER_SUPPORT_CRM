@@ -1,0 +1,43 @@
+customer_support_tickets.csv
+EDA_Analysis.ipynb
+dataset.py
+synthetic_tickets.csv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+dist/
+build/
+
+# Python cache
+.pytest_cache/
+
+# SQLite journal files
+*.db-journal
