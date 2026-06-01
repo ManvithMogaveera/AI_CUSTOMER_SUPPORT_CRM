@@ -40,4 +40,4 @@ build/
 .pytest_cache/
 
 # SQLite journal files
-*.db-journal
+*.db-journal    
