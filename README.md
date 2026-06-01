@@ -96,19 +96,19 @@ The system automatically predicts the category of a support ticket based on the 
 ### Frontend
 
 ```text
-YOUR_VERCEL_LINK_HERE
+[YOUR_VERCEL_LINK_HERE](https://ai-customer-support-crm.vercel.app/)
 ```
 
 ### Backend API
 
 ```text
-YOUR_RENDER_LINK_HERE
+[YOUR_RENDER_LINK_HERE](https://ai-customer-support-crm.onrender.com/)
 ```
 
 ### Swagger Documentation
 
 ```text
-YOUR_RENDER_LINK_HERE/docs
+[YOUR_RENDER_LINK_HERE/docs](https://ai-customer-support-crm.onrender.com/docs)
 ```
 
 ---
